@@ -4,8 +4,8 @@
 
 <p align="center">
 
-  ![Douglas Marques' github stats](https://github-readme-stats.vercel.app/api?username=Douglas-Marques&show_icons=true&theme=dracula)
+  ![Douglas Marques' github stats](https://github-readme-stats.vercel.app/api?username=Douglas-Marques&show_icons=true&theme=dracula&layout=compact)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Marques&theme=dracula)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Marques&show_icons=true&theme=dracula&layout=compact)]
   
 </p>
