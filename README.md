@@ -32,6 +32,8 @@
 
 <hr />
 
+<h3>My history here on GitHub: <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='25"'> </h3> 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Marques&show_icons=true&theme=dracula" alt="Douglas-Marques" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Marques&layout=compact&show_icons=true&theme=dracula" alt="Douglas-Marques' top langs" />
