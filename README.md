@@ -2,10 +2,10 @@
 
 <h3 align="center">FullStack Developer & Mobile Developer 💻</h3>
 
-<div align="center">
+<p align="center">
 
   ![Douglas Marques' github stats](https://github-readme-stats.vercel.app/api?username=Douglas-Marques&show_icons=true&theme=dracula)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Marques&theme=dracula)]
   
-</div>
+</p>
