@@ -4,7 +4,7 @@
 
 <p align="left"> 
   My name is Douglas Marques, I am <strong>FullStack Developer</strong> and <strong>Mobile Developer</strong>.<br>
-  I am studying Software Analysis and Development at Unisinos.
+  I am currently studying Software Analysis and Development at Unisinos.
 </p>
 
 <p align="left">
