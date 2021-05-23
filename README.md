@@ -3,16 +3,16 @@
 <h1 align="center"> Hello, welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="left"> 
-  My name is Douglas Marques, I am <strong>FullStack Developer</strong> and <strong>Mobile Developer</strong>.<br>
+  My name is Douglas Marques, I am <strong>Software Engineer</strong> at <i>Dell Technologies</i> by <i>Qintess</i>.<br>
   I am currently studying Software Analysis and Development at Unisinos.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Javascript/Java, Node/Spring Boot, React/Vue, React Native/Ionic</strong>
+  🦄 Skills: <strong>Javascript/Java, Node/Spring Framework, React/Vue/Angular, React Native/Ionic, MongoDB/Postgres</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>IntelliJ, Visual Studio Code, STS, Insomnia, DBeaver and of course Git.</strong>
+  💼 Tools: <strong>IntelliJ, VSCode, Insomnia, Mongo Compass/DBeaver and (of course) git.</strong>
 </p>
 
 <p align="left">
