@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Fell free to send me a message: ⤵️
+  💌 Feel free to send me a message: ⤵️
 </p>
 
 <p align="left">
